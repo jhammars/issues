@@ -1,3 +1,3 @@
-# Here are priorities in order
+# Project priorities in order linked below:
 
 https://github.com/dolebas/project-tasks/milestone/1
